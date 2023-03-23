@@ -1,5 +1,4 @@
 # View the Site
-To view this site visit https://brianuplift.github.io/TD-Gallery/
 - Use the Search page to search for TD's based on name, party or constituency.
 - Click individual TD's to learn more about them
 - Tick the Comparison checkbox on 2+ TD's to compare them side by side
