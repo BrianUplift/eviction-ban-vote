@@ -514,7 +514,7 @@ const TDS = [
   },
   {
     name: "Marian Harkin",
-    imageUrl: "./assets/images/TDs/Marian_Harkin_Ind.jpg",
+    imageUrl: "./assets/images/TDs/Marian_Harkin.png",
     partyName: "Independent",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
@@ -618,7 +618,7 @@ const TDS = [
   },
   {
     name: "Martin Kenny",
-    imageUrl: "./assets/images/TDs/Martin_Kenny_SF.jpg",
+    imageUrl: "./assets/images/TDs/Martin_Kenny.jpg",
     partyName: "Sinn Féin",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
@@ -1282,7 +1282,7 @@ const TDS = [
   },
   {
     name: "Ivana Bacik",
-    imageUrl: "./assets/images/TDs/Bacik, Ivana_Lab.png",
+    imageUrl: "./assets/images/TDs/Bacik,Ivana_Bacik_Labour.png",
     partyName: "Labour Party",
     constituency: "Dublin Bay South",
     score: "./assets/images/positive.jpg",
@@ -1290,7 +1290,7 @@ const TDS = [
   },
   {
     name: "Seán Ó Fearghaíl",
-    imageUrl: "./assets/images/TDs/O Fearghail, Sean_FF.png",
+    imageUrl: "./assets/images/TDs/Sean_O_Fearghail.png",
     partyName: "Fianna Fáil",
     constituency: "Kildare South",
     score: "./assets/images/did_not_vote.jpg",
