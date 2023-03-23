@@ -618,7 +618,7 @@ const TDS = [
   },
   {
     name: "Martin Kenny",
-    imageUrl: "./assets/images/TDs/Martin_Kenny.jpg",
+    imageUrl: "./assets/images/TDs/Martin_Kenny.png",
     partyName: "Sinn Féin",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
@@ -1282,14 +1282,14 @@ const TDS = [
   },
   {
     name: "Ivana Bacik",
-    imageUrl: "./assets/images/TDs/Bacik,Ivana_Bacik_Labour.png",
+    imageUrl: "./assets/images/TDs/Ivana_Bacik_Labour.png",
     partyName: "Labour Party",
     constituency: "Dublin Bay South",
     score: "./assets/images/positive.jpg",
     partyScore: "71%"
   },
   {
-    name: "Seán Ó Fearghaíl",
+    name: "Sean O Fearghail",
     imageUrl: "./assets/images/TDs/Sean_O_Fearghail.png",
     partyName: "Fianna Fáil",
     constituency: "Kildare South",
