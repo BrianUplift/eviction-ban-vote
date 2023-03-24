@@ -22,7 +22,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin South Central",
     score: "./assets/images/positive.jpg",
-    email: "aengus.osnodaigh@oireachtas.ie"
+    email: "aengus.osnodaigh@oireachtas.ie",
+    phone: "01 618 4084"
   },
   {
     name: "Aindrias Moynihan",
@@ -30,7 +31,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork North West",
     score: "./assets/images/negative.jpg",
-    email: "aindrias.moynihan@oireachtas.ie"
+    email: "aindrias.moynihan@oireachtas.ie",
+    phone: "01 618 3428"
   },
   {
     name: "Alan Dillon",
@@ -38,7 +40,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Mayo",
     score: "./assets/images/negative.jpg",
-    email: "alan.dillon@oireachtas.ie"
+    email: "alan.dillon@oireachtas.ie",
+    phone: "087 9955675"
   },
   {
     name: "Alan Farrell",
@@ -46,7 +49,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Fingal",
     score: "./assets/images/negative.jpg",
-    email: "alan.farrell@oireachtas.ie"
+    email: "alan.farrell@oireachtas.ie",
+    phone: "01 618 4008"
   },
   {
     name: "Alan Kelly",
@@ -54,7 +58,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Tipperary",
     score: "./assets/images/positive.jpg",
-    email: "alan.kelly@oir.ie"
+    email: "alan.kelly@oir.ie",
+    phone: "01 6183229"
   },
   {
     name: "Anne Rabbitte",
@@ -62,7 +67,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Galway East",
     score: "./assets/images/negative.jpg",
-    email: "anne.rabbitte@oireachtas.ie"
+    email: "anne.rabbitte@oireachtas.ie",
+    phone: "01 618 3901"
   },
   {
     name: "Aodhan O Riordain",
@@ -70,7 +76,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Dublin Bay North",
     score: "./assets/images/positive.jpg",
-    email: "aodhan.oriordain@oir.ie"
+    email: "aodhan.oriordain@oir.ie",
+    phone: "01 618 3209"
   },
   {
     name: "Barry Cowen",
@@ -78,7 +85,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Laois Offaly",
     score: "./assets/images/negative.jpg",
-    email: "barry.cowen@oireachtas.ie"
+    email: "barry.cowen@oireachtas.ie",
+    phone: "01 618 3662"
   },
   {
     name: "Bernard Durkan",
@@ -86,7 +94,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Kildare North",
     score: "./assets/images/negative.jpg",
-    email: "bernard.durkan@oireachtas.ie"
+    email: "bernard.durkan@oireachtas.ie",
+    phone: "01 618 3732"
   },
   {
     name: "Brendan Griffin",
@@ -94,7 +103,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Kerry",
     score: "./assets/images/negative.jpg",
-    email: "brendan.griffin@oireachtas.ie"
+    email: "brendan.griffin@oireachtas.ie",
+    phone: "01 618 4480"
   },
   {
     name: "Brendan Howlin",
@@ -102,7 +112,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Wexford",
     score: "./assets/images/positive.jpg",
-    email: "brendan.howlin@oireachtas.ie"
+    email: "brendan.howlin@oireachtas.ie",
+    phone: "053 9124036"
   },
   {
     name: "Brendan Smith",
@@ -110,7 +121,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cavan Monaghan",
     score: "./assets/images/negative.jpg",
-    email: "brendan.smith@oireachtas.ie"
+    email: "brendan.smith@oireachtas.ie",
+    phone: "01 618 3376"
   },
   {
     name: "Brian Leddin",
@@ -118,7 +130,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Limerick City",
     score: "./assets/images/negative.jpg",
-    email: "brian.leddin@greenparty.ie"
+    email: "brian.leddin@greenparty.ie",
+    phone: "01 6183205"
   },
   {
     name: "Brian Stanley",
@@ -126,7 +139,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Laois Offaly",
     score: "./assets/images/positive.jpg",
-    email: "brian.stanley@oireachtas.ie"
+    email: "brian.stanley@oireachtas.ie",
+    phone: "01 618 3987"
   },
   {
     name: "Brid Smith",
@@ -134,7 +148,8 @@ const TDS = [
     partyName: "Solidarity - People Before Profit",
     constituency: "Dublin South Central",
     score: "./assets/images/positive.jpg",
-    email: "brid.smith@oireachtas.ie"
+    email: "brid.smith@oireachtas.ie",
+    phone: "01 616 1003"
   },
   {
     name: "Carol Nolan",
@@ -142,7 +157,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Laois Offaly",
     score: "./assets/images/positive.jpg",
-    email: "carol.nolan@oireachtas.ie"
+    email: "carol.nolan@oireachtas.ie",
+    phone: "01 6183060"
   },
   {
     name: "Cathal Berry",
@@ -150,7 +166,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Kildare South",
     score: "./assets/images/negative.jpg",
-    email: "cathal.berry@oireachtas.ie"
+    email: "cathal.berry@oireachtas.ie",
+    phone: "01 6183351"
   },
   {
     name: "Cathal Crowe",
@@ -158,7 +175,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Clare",
     score: "./assets/images/negative.jpg",
-    email: "cathal.crowe@oireachtas.ie"
+    email: "cathal.crowe@oireachtas.ie",
+    phone: "01 6183154"
   },
   {
     name: "Catherine Connolly",
@@ -166,7 +184,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Galway West",
     score: "./assets/images/positive.jpg",
-    email: "catherine.connolly@oireachtas.ie"
+    email: "catherine.connolly@oireachtas.ie",
+    phone: "01 6184411"
   },
   {
     name: "Catherine Martin",
@@ -174,7 +193,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin Rathdown",
     score: "./assets/images/negative.jpg",
-    email: "ministers.office@tcagsm.gov.ie"
+    email: "ministers.office@tcagsm.gov.ie",
+    phone: "01 6183018"
   },
   {
     name: "Catherine Murphy",
@@ -182,7 +202,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Kildare North",
     score: "./assets/images/positive.jpg",
-    email: "catherine.murphy@oireachtas.ie"
+    email: "catherine.murphy@oireachtas.ie",
+    phone: "01 618 3099"
   },
   {
     name: "Charlie Flanagan",
@@ -190,7 +211,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Laois Offaly",
     score: "./assets/images/negative.jpg",
-    email: "charles.flanagan@oireachtas.ie"
+    email: "charles.flanagan@oireachtas.ie",
+    phone: "01 602 8202"
   },
   {
     name: "Charlie McConalogue",
@@ -198,7 +220,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Donegal",
     score: "./assets/images/negative.jpg",
-    email: "charlie.mcconalogue@oireachtas.ie"
+    email: "charlie.mcconalogue@oireachtas.ie",
+    phone: "01 618 3199"
   },
   {
     name: "Chris Andrews",
@@ -206,7 +229,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Bay South",
     score: "./assets/images/positive.jpg",
-    email: "chris.andrews@oireachtas.ie"
+    email: "chris.andrews@oireachtas.ie",
+    phone: "087 2851515"
   },
   {
     name: "Christopher O'Sullivan",
@@ -214,7 +238,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork South West",
     score: "./assets/images/negative.jpg",
-    email: "christopher.osullivan@oireachtas.ie"
+    email: "christopher.osullivan@oireachtas.ie",
+    phone: "01 6183095"
   },
   {
     name: "Cian O'Callaghan",
@@ -222,7 +247,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Dublin Bay North",
     score: "./assets/images/positive.jpg",
-    email: "Cian.OCallaghan@oireachtas.ie"
+    email: "Cian.OCallaghan@oireachtas.ie",
+    phone: "01 618 3057"
   },
   {
     name: "Ciaran Cannon",
@@ -230,7 +256,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Galway East",
     score: "./assets/images/negative.jpg",
-    email: "ciaran.cannon@oireachtas.ie"
+    email: "ciaran.cannon@oireachtas.ie",
+    phone: "01 618 3185"
   },
   {
     name: "Claire Kerrane",
@@ -238,7 +265,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Roscommon Galway",
     score: "./assets/images/positive.jpg",
-    email: "claire.kerrane@oireachtas.ie"
+    email: "claire.kerrane@oireachtas.ie",
+    phone: "01 6184788"
   },
   {
     name: "Colm Brophy",
@@ -246,7 +274,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin South West",
     score: "./assets/images/negative.jpg",
-    email: "colm.brophy@oireachtas.ie"
+    email: "colm.brophy@oireachtas.ie",
+    phone: "01 6183196"
   },
   {
     name: "Colm Burke",
@@ -254,7 +283,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Cork North Central",
     score: "./assets/images/negative.jpg",
-    email: "colm.burke@oireachtas.ie"
+    email: "colm.burke@oireachtas.ie",
+    phone: "01 618 3115"
   },
   {
     name: "Cormac Devlin",
@@ -262,7 +292,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dún Laoghaire",
     score: "./assets/images/negative.jpg",
-    email: "cormac@cormacdevlin.ie"
+    email: "cormac@cormacdevlin.ie",
+    phone: "01 275 0786"
   },
   {
     name: "Damien English",
@@ -270,7 +301,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Meath West",
     score: "./assets/images/negative.jpg",
-    email: "damien.english@oireachtas.ie"
+    email: "damien.english@oireachtas.ie",
+    phone: "01 618 4012"
   },
   {
     name: "Danny Healy Rae",
@@ -278,7 +310,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Kerry",
     score: "./assets/images/negative.jpg",
-    email: "danny.healy-rae@oireachtas.ie"
+    email: "danny.healy-rae@oireachtas.ie",
+    phone: "01 618 4070"
   },
   {
     name: "Dara Calleary",
@@ -286,7 +319,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Mayo",
     score: "./assets/images/negative.jpg",
-    email: "dara.calleary@oireachtas.ie"
+    email: "dara.calleary@oireachtas.ie",
+    phone: "01 618 3331"
   },
   {
     name: "Darragh O'Brien",
@@ -294,7 +328,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin Fingal",
     score: "./assets/images/negative.jpg",
-    email: "darragh.obrien@oireachtas.ie"
+    email: "darragh.obrien@oireachtas.ie",
+    phone: "01 618 3802"
   },
   {
     name: "Darren O'Rourke",
@@ -302,7 +337,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Meath East",
     score: "./assets/images/positive.jpg",
-    email: "darren.orourke@oireachtas.ie"
+    email: "darren.orourke@oireachtas.ie",
+    phone: "01 6184504"
   },
   {
     name: "David Cullinane",
@@ -310,7 +346,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Waterford",
     score: "./assets/images/positive.jpg",
-    email: "david.cullinane@oireachtas.ie"
+    email: "david.cullinane@oireachtas.ie",
+    phone: "01 618 3176"
   },
   {
     name: "David Stanton",
@@ -318,7 +355,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Cork East",
     score: "./assets/images/negative.jpg",
-    email: "david.stanton@oireachtas.ie"
+    email: "david.stanton@oireachtas.ie",
+    phone: "01 618 3181"
   },
   {
     name: "Denis Naughten",
@@ -326,7 +364,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Roscommon Galway",
     score: "./assets/images/negative.jpg",
-    email: "Denis.Naughten@oireachtas.ie"
+    email: "Denis.Naughten@oireachtas.ie",
+    phone: "090 6627557"
   },
   {
     name: "Denise Mitchell",
@@ -334,7 +373,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Bay North",
     score: "./assets/images/positive.jpg",
-    email: "denise.mitchell@oireachtas.ie"
+    email: "denise.mitchell@oireachtas.ie",
+    phone: "01 618 3457"
   },
   {
     name: "Dessie Ellis",
@@ -342,7 +382,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin North West",
     score: "./assets/images/positive.jpg",
-    email: "dessie.ellis@oireachtas.ie"
+    email: "dessie.ellis@oireachtas.ie",
+    phone: "01 618 3006"
   },
   {
     name: "Donnchadh O Laoghaire",
@@ -350,7 +391,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Cork South Central",
     score: "./assets/images/did_not_vote.jpg",
-    email: "donnchadh.olaoghaire@oireachtas.ie"
+    email: "donnchadh.olaoghaire@oireachtas.ie",
+    phone: "01 618 3097"
   },
   {
     name: "Duncan Smith",
@@ -358,7 +400,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Dublin Fingal",
     score: "./assets/images/positive.jpg",
-    email: "duncan.smith@oireachtas.ie"
+    email: "duncan.smith@oireachtas.ie",
+    phone: "087 9862686"
   },
   {
     name: "Eamon O Cuiv",
@@ -366,7 +409,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Galway West",
     score: "./assets/images/negative.jpg",
-    email: "eamon.ocuiv@oireachtas.ie"
+    email: "eamon.ocuiv@oireachtas.ie",
+    phone: "01 618 4231"
   },
   {
     name: "Eamon Ryan",
@@ -374,7 +418,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin Bay South",
     score: "./assets/images/negative.jpg",
-    email: "eamon.ryan@oireachtas.ie"
+    email: "eamon.ryan@oireachtas.ie",
+    phone: "01 618 3892"
   },
   {
     name: "Emer Higgins",
@@ -382,7 +427,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Mid West",
     score: "./assets/images/negative.jpg",
-    email: "emer.higgins@oireachtas.ie"
+    email: "emer.higgins@oireachtas.ie",
+    phone: "087 9217741"
   },
   {
     name: "Eoin O Broin",
@@ -390,7 +436,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Mid West",
     score: "./assets/images/positive.jpg",
-    email: "eoin.obroin@oireachtas.ie"
+    email: "eoin.obroin@oireachtas.ie",
+    phone: "01 6183080"
   },
   {
     name: "Fergus O'Dowd",
@@ -398,7 +445,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Louth",
     score: "./assets/images/negative.jpg",
-    email: "fergus.odowd@oireachtas.ie"
+    email: "fergus.odowd@oireachtas.ie",
+    phone: "01 618 3078"
   },
   {
     name: "Francis Noel Duffy",
@@ -406,7 +454,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin South West",
     score: "./assets/images/negative.jpg",
-    email: "francisnoel.duffy@oireachtas.ie"
+    email: "francisnoel.duffy@oireachtas.ie",
+    phone: "086 0664762"
   },
   {
     name: "Frank Feighan",
@@ -414,7 +463,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Sligo Leitrim",
     score: "./assets/images/negative.jpg",
-    email: "frank.feighan@oireachtas.ie"
+    email: "frank.feighan@oireachtas.ie",
+    phone: "01 618 4289"
   },
   {
     name: "Gary Gannon",
@@ -422,7 +472,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Dublin Central",
     score: "./assets/images/positive.jpg",
-    email: "gary.gannon@oireachtas.ie"
+    email: "gary.gannon@oireachtas.ie",
+    phone: "086 1780149"
   },
   {
     name: "Ged Nash",
@@ -430,7 +481,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Louth",
     score: "./assets/images/positive.jpg",
-    email: "ged.nash@oir.ie"
+    email: "ged.nash@oir.ie",
+    phone: "01 618 3576"
   },
   {
     name: "Gino Kenny",
@@ -438,7 +490,8 @@ const TDS = [
     partyName: "Solidarity - People Before Profit",
     constituency: "Dublin Mid West",
     score: "./assets/images/positive.jpg",
-    email: "gino.kenny@oireachtas.ie"
+    email: "gino.kenny@oireachtas.ie",
+    phone: "085 7211574"
   },
   {
     name: "Heather Humphreys",
@@ -446,7 +499,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Cavan Monaghan",
     score: "./assets/images/negative.jpg",
-    email: "minister@welfare.ie"
+    email: "minister@welfare.ie",
+    phone: "01 618 3408"
   },
   {
     name: "Helen McEntee",
@@ -454,7 +508,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Meath East",
     score: "./assets/images/did_not_vote.jpg",
-    email: "minister@justice.ie"
+    email: "minister@justice.ie",
+    phone: "01 618 3253"
   },
   {
     name: "Hildegarde Naughton",
@@ -462,7 +517,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Galway West",
     score: "./assets/images/negative.jpg",
-    email: "hildegarde.naughton@oireachtas.ie"
+    email: "hildegarde.naughton@oireachtas.ie",
+    phone: "091 569 677"
   },
   {
     name: "Holly Cairns",
@@ -470,7 +526,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Cork South West",
     score: "./assets/images/positive.jpg",
-    email: "holly.cairns@oir.ie"
+    email: "holly.cairns@oir.ie",
+    phone: "086 3615830"
   },
   {
     name: "Imelda Munster",
@@ -478,7 +535,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Louth",
     score: "./assets/images/positive.jpg",
-    email: "imelda.munster@oireachtas.ie"
+    email: "imelda.munster@oireachtas.ie",
+    phone: "01 6183043"
   },
   {
     name: "Ivana Bacik",
@@ -486,7 +544,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Dublin Bay South",
     score: "./assets/images/positive.jpg",
-    email: "ivana.bacik@oireachtas.ie"
+    email: "ivana.bacik@oireachtas.ie",
+    phone: "01 618 3055"
   },
   {
     name: "Jack Chambers",
@@ -494,7 +553,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin West",
     score: "./assets/images/negative.jpg",
-    email: "jack@jackchambers.ie"
+    email: "jack@jackchambers.ie",
+    phone: "01 6183754"
   },
   {
     name: "Jackie Cahill",
@@ -502,7 +562,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Tipperary",
     score: "./assets/images/negative.jpg",
-    email: "jackie.cahill@oireachtas.ie"
+    email: "jackie.cahill@oireachtas.ie",
+    phone: "01 618 3725"
   },
   {
     name: "James Browne",
@@ -510,7 +571,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Wexford",
     score: "./assets/images/negative.jpg",
-    email: "james.browne@oireachtas.ie"
+    email: "james.browne@oireachtas.ie",
+    phone: "01 618 3094"
   },
   {
     name: "James Lawless",
@@ -518,7 +580,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Kildare North",
     score: "./assets/images/negative.jpg",
-    email: "james.lawless@oireachtas.ie"
+    email: "james.lawless@oireachtas.ie",
+    phone: "01 618 3587"
   },
   {
     name: "James O'Connor",
@@ -526,7 +589,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork East",
     score: "./assets/images/negative.jpg",
-    email: "james.oconnor@oireachtas.ie"
+    email: "james.oconnor@oireachtas.ie",
+    phone: "085 8765844"
   },
   {
     name: "Jennifer Carroll MacNeill",
@@ -534,7 +598,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dún Laoghaire",
     score: "./assets/images/negative.jpg",
-    email: "jennifer.carrollmacneill@oireachtas.ie"
+    email: "jennifer.carrollmacneill@oireachtas.ie",
+    phone: "087 9257559"
   },
   {
     name: "Jennifer Murnane O'Connor",
@@ -542,7 +607,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Carlow Kilkenny",
     score: "./assets/images/negative.jpg",
-    email: "jennifer.murnaneoconnor@oireachtas.ie"
+    email: "jennifer.murnaneoconnor@oireachtas.ie",
+    phone: "01 618 3307"
   },
   {
     name: "Jennifer Whitmore",
@@ -550,7 +616,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Wicklow",
     score: "./assets/images/positive.jpg",
-    email: "jennifer.whitmore@oireachtas.ie"
+    email: "jennifer.whitmore@oireachtas.ie",
+    phone: "01 6183571"
   },
   {
     name: "Jim O'Callaghan",
@@ -558,7 +625,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin Bay South",
     score: "./assets/images/negative.jpg",
-    email: "jim.ocallaghan@oireachtas.ie"
+    email: "jim.ocallaghan@oireachtas.ie",
+    phone: "01 618 3134"
   },
   {
     name: "Joan Collins",
@@ -566,7 +634,8 @@ const TDS = [
     partyName: "Independents 4 Change",
     constituency: "Dublin South Central",
     score: "./assets/images/positive.jpg",
-    email: "joan.collins@oireachtas.ie"
+    email: "joan.collins@oireachtas.ie",
+    phone: "01 454 0085"
   },
   {
     name: "Joe Carey",
@@ -574,7 +643,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Clare",
     score: "./assets/images/did_not_vote.jpg",
-    email: "joe.carey@oireachtas.ie"
+    email: "joe.carey@oireachtas.ie",
+    phone: "01 618 3337"
   },
   {
     name: "Joe Flaherty",
@@ -582,7 +652,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Longford Westmeath",
     score: "./assets/images/negative.jpg",
-    email: "joe.flaherty@oireachtas.ie"
+    email: "joe.flaherty@oireachtas.ie",
+    phone: "086 8201261"
   },
   {
     name: "Joe McHugh",
@@ -590,7 +661,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Donegal",
     score: "./assets/images/negative.jpg",
-    email: "joe.mchugh@oireachtas.ie"
+    email: "joe.mchugh@oireachtas.ie",
+    phone: "01 618 4242"
   },
   {
     name: "Joe O'Brien",
@@ -598,7 +670,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin Fingal",
     score: "./assets/images/negative.jpg",
-    email: "joe.obrien@oireachtas.ie"
+    email: "joe.obrien@oireachtas.ie",
+    phone: "01 618 4114"
   },
   {
     name: "John Brady",
@@ -606,7 +679,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Wicklow",
     score: "./assets/images/positive.jpg",
-    email: "john.brady@oireachtas.ie"
+    email: "john.brady@oireachtas.ie",
+    phone: "01 6183365"
   },
   {
     name: "John Lahart",
@@ -614,7 +688,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin South West",
     score: "./assets/images/negative.jpg",
-    email: "john.lahart@oireachtas.ie"
+    email: "john.lahart@oireachtas.ie",
+    phone: "01 618 3712"
   },
   {
     name: "John McGuinness",
@@ -622,7 +697,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Carlow Kilkenny",
     score: "./assets/images/negative.jpg",
-    email: "john.mcguinness@oireachtas.ie"
+    email: "john.mcguinness@oireachtas.ie",
+    phone: "01 618 3137"
   },
   {
     name: "John Paul Phelan",
@@ -630,7 +706,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Carlow Kilkenny",
     score: "./assets/images/negative.jpg",
-    email: "johnpaul.phelan@oireachtas.ie"
+    email: "johnpaul.phelan@oireachtas.ie",
+    phone: "01 618 4202"
   },
   {
     name: "Johnny Guirke",
@@ -638,7 +715,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Meath West",
     score: "./assets/images/positive.jpg",
-    email: "johnny.guirke@oireachtas.ie"
+    email: "johnny.guirke@oireachtas.ie",
+    phone: "01 6184502"
   },
   {
     name: "Johnny Mythen",
@@ -646,7 +724,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Wexford",
     score: "./assets/images/did_not_vote.jpg",
-    email: "johnny.mythen@oireachtas.ie"
+    email: "johnny.mythen@oireachtas.ie",
+    phone: "01 6183911"
   },
   {
     name: "Josepha Madigan",
@@ -654,7 +733,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Rathdown",
     score: "./assets/images/negative.jpg",
-    email: "josepha.madigan@oireachtas.ie"
+    email: "josepha.madigan@oireachtas.ie",
+    phone: "01 618 3252"
   },
   {
     name: "Kathleen Funchion",
@@ -662,7 +742,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Carlow Kilkenny",
     score: "./assets/images/positive.jpg",
-    email: "kathleen.funchion@oireachtas.ie"
+    email: "kathleen.funchion@oireachtas.ie",
+    phone: "01 6183567"
   },
   {
     name: "Kieran O'Donnell",
@@ -670,7 +751,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Limerick City",
     score: "./assets/images/negative.jpg",
-    email: "kieran.odonnell@oireachtas.ie"
+    email: "kieran.odonnell@oireachtas.ie",
+    phone: "01 618 3808"
   },
   {
     name: "Leo Varadkar",
@@ -678,7 +760,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin West",
     score: "./assets/images/negative.jpg",
-    email: "leo.varadkar@oireachtas.ie"
+    email: "leo.varadkar@oireachtas.ie",
+    phone: "01 640 3133"
   },
   {
     name: "Louise O'Reilly",
@@ -686,7 +769,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Fingal",
     score: "./assets/images/positive.jpg",
-    email: "louise.oreilly@oireachtas.ie"
+    email: "louise.oreilly@oireachtas.ie",
+    phone: "01 618 3093"
   },
   {
     name: "Mairead Farrell",
@@ -694,7 +778,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Galway West",
     score: "./assets/images/positive.jpg",
-    email: "mairead.farrell@oireachtas.ie"
+    email: "mairead.farrell@oireachtas.ie",
+    phone: "01 6183132"
   },
   {
     name: "Malcolm Noonan",
@@ -702,7 +787,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Carlow Kilkenny",
     score: "./assets/images/negative.jpg",
-    email: "malcolm.noonan@oireachtas.ie"
+    email: "malcolm.noonan@oireachtas.ie",
+    phone: "086 8399418"
   },
   {
     name: "Marc MacSharry",
@@ -710,7 +796,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
-    email: "marc.macsharry@oireachtas.ie"
+    email: "marc.macsharry@oireachtas.ie",
+    phone: "01 618 4221"
   },
   {
     name: "Marc O Cathasaigh",
@@ -718,7 +805,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Waterford",
     score: "./assets/images/negative.jpg",
-    email: "marc.ocathasaigh@oireachtas.ie"
+    email: "marc.ocathasaigh@oireachtas.ie",
+    phone: "086 1908147"
   },
   {
     name: "Marian Harkin",
@@ -726,7 +814,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
-    email: "marian.harkin@oireachtas.ie"
+    email: "marian.harkin@oireachtas.ie",
+    phone: "‪071 9145890‬"
   },
   {
     name: "Mark Ward",
@@ -734,7 +823,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Mid West",
     score: "./assets/images/positive.jpg",
-    email: "mark.ward@oireachtas.ie"
+    email: "mark.ward@oireachtas.ie",
+    phone: "086 7038164"
   },
   {
     name: "Martin Browne",
@@ -742,7 +832,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Tipperary",
     score: "./assets/images/positive.jpg",
-    email: "martin.browne@oireachtas.ie"
+    email: "martin.browne@oireachtas.ie",
+    phone: "01 6184603"
   },
   {
     name: "Martin Heydon",
@@ -750,7 +841,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Kildare South",
     score: "./assets/images/negative.jpg",
-    email: "martin.heydon@oir.ie"
+    email: "martin.heydon@oir.ie",
+    phone: "04 548 7624"
   },
   {
     name: "Martin Kenny",
@@ -758,7 +850,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Sligo Leitrim",
     score: "./assets/images/positive.jpg",
-    email: "martin.kenny@oireachtas.ie"
+    email: "martin.kenny@oireachtas.ie",
+    phone: "01 6183860"
   },
   {
     name: "Mary Butler",
@@ -766,7 +859,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Waterford",
     score: "./assets/images/negative.jpg",
-    email: "mary.butler@oireachtas.ie"
+    email: "mary.butler@oireachtas.ie",
+    phone: "01 618 3599"
   },
   {
     name: "Mary Lou McDonald",
@@ -774,7 +868,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin Central",
     score: "./assets/images/positive.jpg",
-    email: "marylou.mcdonald@oireachtas.ie"
+    email: "marylou.mcdonald@oireachtas.ie",
+    phone: "01 618 3230"
   },
   {
     name: "Matt Carthy",
@@ -782,7 +877,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Cavan Monaghan",
     score: "./assets/images/positive.jpg",
-    email: "matt.carthy@oireachtas.ie"
+    email: "matt.carthy@oireachtas.ie",
+    phone: "‪042 9674001‬"
   },
   {
     name: "Matt Shanahan",
@@ -790,7 +886,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Waterford",
     score: "./assets/images/negative.jpg",
-    email: "matt.shanahan@oireachtas.ie"
+    email: "matt.shanahan@oireachtas.ie",
+    phone: "01 6183522"
   },
   {
     name: "Mattie McGrath",
@@ -798,7 +895,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Tipperary",
     score: "./assets/images/positive.jpg",
-    email: "mattie.mcgrath@oireachtas.ie"
+    email: "mattie.mcgrath@oireachtas.ie",
+    phone: "01 618 4062"
   },
   {
     name: "Maurice Quinlivan",
@@ -806,7 +904,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Limerick City",
     score: "./assets/images/positive.jpg",
-    email: "maurice.quinlivan@oireachtas.ie"
+    email: "maurice.quinlivan@oireachtas.ie",
+    phone: "01 618 3620"
   },
   {
     name: "Michael Collins",
@@ -814,7 +913,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Cork South West",
     score: "./assets/images/positive.jpg",
-    email: "michael.collins@oireachtas.ie"
+    email: "michael.collins@oireachtas.ie",
+    phone: "01 618 3133"
   },
   {
     name: "Michael Creed",
@@ -822,7 +922,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Cork North West",
     score: "./assets/images/negative.jpg",
-    email: "michael.creed@oireachtas.ie"
+    email: "michael.creed@oireachtas.ie",
+    phone: "01 618 3525"
   },
   {
     name: "Michael Fitzmaurice",
@@ -830,7 +931,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Roscommon Galway",
     score: "./assets/images/did_not_vote.jpg",
-    email: "michael.fitzmaurice@oireachtas.ie"
+    email: "michael.fitzmaurice@oireachtas.ie",
+    phone: "01 6183321"
   },
   {
     name: "Michael Healy Rae",
@@ -838,7 +940,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Kerry",
     score: "./assets/images/positive.jpg",
-    email: "michael.healy-rae@oireachtas.ie"
+    email: "michael.healy-rae@oireachtas.ie",
+    phone: "01 618 3363"
   },
   {
     name: "Michael Lowry",
@@ -846,7 +949,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Tipperary",
     score: "./assets/images/negative.jpg",
-    email: "michael.lowry@oireachtas.ie"
+    email: "michael.lowry@oireachtas.ie",
+    phone: "01 618 3504"
   },
   {
     name: "Michael McGrath",
@@ -854,7 +958,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork South Central",
     score: "./assets/images/negative.jpg",
-    email: "michael.mcgrath@oireachtas.ie"
+    email: "michael.mcgrath@oireachtas.ie",
+    phone: "021 4376699"
   },
   {
     name: "Michael McNamara",
@@ -862,7 +967,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Clare",
     score: "./assets/images/positive.jpg",
-    email: "michael.mcnamara@oireachtas.ie"
+    email: "michael.mcnamara@oireachtas.ie",
+    phone: "01 6183879"
   },
   {
     name: "Michael Moynihan",
@@ -870,7 +976,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork North West",
     score: "./assets/images/negative.jpg",
-    email: "michael.moynihan@oireachtas.ie"
+    email: "michael.moynihan@oireachtas.ie",
+    phone: "01 618 3595"
   },
   {
     name: "Michael Ring",
@@ -878,7 +985,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Mayo",
     score: "./assets/images/negative.jpg",
-    email: "michael.ring@oireachtas.ie"
+    email: "michael.ring@oireachtas.ie",
+    phone: "01 618 4367"
   },
   {
     name: "Micheal Martin",
@@ -886,7 +994,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork South Central",
     score: "./assets/images/negative.jpg",
-    email: "micheal.martin@oireachtas.ie"
+    email: "micheal.martin@oireachtas.ie",
+    phone: "021 4320088"
   },
   {
     name: "Mick Barry",
@@ -894,7 +1003,8 @@ const TDS = [
     partyName: "Solidarity - People Before Profit",
     constituency: "Cork North Central",
     score: "./assets/images/positive.jpg",
-    email: "mick.barry@oireachtas.ie"
+    email: "mick.barry@oireachtas.ie",
+    phone: "021 4399653"
   },
   {
     name: "Neale Richmond",
@@ -902,7 +1012,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Rathdown",
     score: "./assets/images/negative.jpg",
-    email: "neale.richmond@oireachtas.ie"
+    email: "neale.richmond@oireachtas.ie",
+    phone: "01 618 3905"
   },
   {
     name: "Neasa Hourigan",
@@ -910,7 +1021,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin Central",
     score: "./assets/images/positive.jpg",
-    email: "neasa.hourigan@oireachtas.ie"
+    email: "neasa.hourigan@oireachtas.ie",
+    phone: "085 2849914"
   },
   {
     name: "Niall Collins",
@@ -918,7 +1030,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Limerick County",
     score: "./assets/images/negative.jpg",
-    email: "niall.collins@oireachtas.ie"
+    email: "niall.collins@oireachtas.ie",
+    phone: "01 618 3577"
   },
   {
     name: "Niamh Smyth",
@@ -926,7 +1039,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cavan Monaghan",
     score: "./assets/images/did_not_vote.jpg",
-    email: "niamh.smyth@oireachtas.ie"
+    email: "niamh.smyth@oireachtas.ie",
+    phone: "01 618 3492"
   },
   {
     name: "Noel Grealish",
@@ -934,7 +1048,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Galway West",
     score: "./assets/images/did_not_vote.jpg",
-    email: "noel.grealish@oireachtas.ie"
+    email: "noel.grealish@oireachtas.ie",
+    phone: "09 176 4807"
   },
   {
     name: "Norma Foley",
@@ -942,7 +1057,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Kerry",
     score: "./assets/images/negative.jpg",
-    email: "norma.foley@oireachtas.ie"
+    email: "norma.foley@oireachtas.ie",
+    phone: "086 3900312"
   },
   {
     name: "Ossian Smyth",
@@ -950,7 +1066,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dún Laoghaire",
     score: "./assets/images/negative.jpg",
-    email: "ossian.smyth@oireachtas.ie"
+    email: "ossian.smyth@oireachtas.ie",
+    phone: "086 4611628"
   },
   {
     name: "Pa Daly",
@@ -958,7 +1075,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Kerry",
     score: "./assets/images/positive.jpg",
-    email: "pa.daly@oireachtas.ie"
+    email: "pa.daly@oireachtas.ie",
+    phone: "01 6183779"
   },
   {
     name: "Padraig MacLochlainn",
@@ -966,7 +1084,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Donegal",
     score: "./assets/images/positive.jpg",
-    email: "padraig.maclochlainn@oireachtas.ie"
+    email: "padraig.maclochlainn@oireachtas.ie",
+    phone: "01 618 4061"
   },
   {
     name: "Padraig O'Sullivan",
@@ -974,7 +1093,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Cork North Central",
     score: "./assets/images/negative.jpg",
-    email: "padraig.osullivan@oireachtas.ie"
+    email: "padraig.osullivan@oireachtas.ie",
+    phone: "021 4502289"
   },
   {
     name: "Paschal Donohoe",
@@ -982,7 +1102,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Central",
     score: "./assets/images/negative.jpg",
-    email: "paschal.donohoe@oireachtas.ie"
+    email: "paschal.donohoe@oireachtas.ie",
+    phone: "01 618 3689"
   },
   {
     name: "Pat Buckley",
@@ -990,7 +1111,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Cork East",
     score: "./assets/images/positive.jpg",
-    email: "pat.buckley@oireachtas.ie"
+    email: "pat.buckley@oireachtas.ie",
+    phone: "01 6183062"
   },
   {
     name: "Patricia Ryan",
@@ -998,7 +1120,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Kildare South",
     score: "./assets/images/positive.jpg",
-    email: "patricia.ryan@oireachtas.ie"
+    email: "patricia.ryan@oireachtas.ie",
+    phone: "04 553 2723"
   },
   {
     name: "Patrick Costello",
@@ -1006,7 +1129,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin South Central",
     score: "./assets/images/negative.jpg",
-    email: "patrick.costello@oireachtas.ie"
+    email: "patrick.costello@oireachtas.ie",
+    phone: "087 9431494"
   },
   {
     name: "Patrick O'Donovan",
@@ -1014,7 +1138,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Limerick County",
     score: "./assets/images/negative.jpg",
-    email: "patrick.odonovan@oireachtas.ie"
+    email: "patrick.odonovan@oireachtas.ie",
+    phone: "01 618 3610"
   },
   {
     name: "Paul Donnelly",
@@ -1022,7 +1147,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin West",
     score: "./assets/images/positive.jpg",
-    email: "paul.donnelly@oireachtas.ie"
+    email: "paul.donnelly@oireachtas.ie",
+    phone: "087 1341514"
   },
   {
     name: "Paul Kehoe",
@@ -1030,7 +1156,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Wexford",
     score: "./assets/images/negative.jpg",
-    email: "paul.kehoe@oireachtas.ie"
+    email: "paul.kehoe@oireachtas.ie",
+    phone: "01 618 4473"
   },
   {
     name: "Paul McAuliffe",
@@ -1038,7 +1165,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin North West",
     score: "./assets/images/negative.jpg",
-    email: "paul.mcauliffe@oireachtas.ie"
+    email: "paul.mcauliffe@oireachtas.ie",
+    phone: "087 6727060"
   },
   {
     name: "Paul Murphy",
@@ -1046,7 +1174,8 @@ const TDS = [
     partyName: "Solidarity - People Before Profit",
     constituency: "Dublin South West",
     score: "./assets/images/positive.jpg",
-    email: "paul.murphy@oireachtas.ie"
+    email: "paul.murphy@oireachtas.ie",
+    phone: "01 6183071"
   },
   {
     name: "Pauline Tully",
@@ -1054,7 +1183,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Cavan Monaghan",
     score: "./assets/images/positive.jpg",
-    email: "pauline.tully@oireachtas.ie"
+    email: "pauline.tully@oireachtas.ie",
+    phone: "01 6183210"
   },
   {
     name: "Peadar Toibin",
@@ -1062,7 +1192,8 @@ const TDS = [
     partyName: "Aontú",
     constituency: "Meath West",
     score: "./assets/images/positive.jpg",
-    email: "peadar.toibin@oireachtas.ie"
+    email: "peadar.toibin@oireachtas.ie",
+    phone: "046 90 23472"
   },
   {
     name: "Pearse Doherty",
@@ -1070,7 +1201,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Donegal",
     score: "./assets/images/positive.jpg",
-    email: "pearse.doherty@oireachtas.ie"
+    email: "pearse.doherty@oireachtas.ie",
+    phone: "01 618 3960"
   },
   {
     name: "Peter Burke",
@@ -1078,7 +1210,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Longford Westmeath",
     score: "./assets/images/negative.jpg",
-    email: "peter.burke@oireachtas.ie"
+    email: "peter.burke@oireachtas.ie",
+    phone: "01 6183070"
   },
   {
     name: "Peter Fitzpatrick",
@@ -1086,7 +1219,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Louth",
     score: "./assets/images/positive.jpg",
-    email: "peterm.fitzpatrick@oireachtas.ie"
+    email: "peterm.fitzpatrick@oireachtas.ie",
+    phone: "01 618 3563"
   },
   {
     name: "Reada Cronin",
@@ -1094,7 +1228,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Kildare North",
     score: "./assets/images/positive.jpg",
-    email: "reada.cronin@oireachtas.ie"
+    email: "reada.cronin@oireachtas.ie",
+    phone: "01 6183823"
   },
   {
     name: "Richard Boyd Barrett",
@@ -1102,7 +1237,8 @@ const TDS = [
     partyName: "Solidarity - People Before Profit",
     constituency: "Dún Laoghaire",
     score: "./assets/images/positive.jpg",
-    email: "richard.boydbarrett@oir.ie"
+    email: "richard.boydbarrett@oir.ie",
+    phone: "01 618 3449"
   },
   {
     name: "Richard Bruton",
@@ -1110,7 +1246,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Dublin Bay North",
     score: "./assets/images/negative.jpg",
-    email: "richard.bruton@oireachtas.ie"
+    email: "richard.bruton@oireachtas.ie",
+    phone: "01 618 3103"
   },
   {
     name: "Richard O'Donoghue",
@@ -1118,7 +1255,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Limerick County",
     score: "./assets/images/positive.jpg",
-    email: "richard.odonoghue@oireachtas.ie"
+    email: "richard.odonoghue@oireachtas.ie",
+    phone: "063 311 33"
   },
   {
     name: "Robert Troy",
@@ -1126,7 +1264,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Longford Westmeath",
     score: "./assets/images/negative.jpg",
-    email: "robert.troy@oireachtas.ie"
+    email: "robert.troy@oireachtas.ie",
+    phone: "01 618 4059"
   },
   {
     name: "Roderic O'Gorman",
@@ -1134,7 +1273,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Dublin West",
     score: "./assets/images/negative.jpg",
-    email: "roderic.ogorman@oireachtas.ie"
+    email: "roderic.ogorman@oireachtas.ie",
+    phone: "087 4179777"
   },
   {
     name: "Roisin Shortall",
@@ -1142,7 +1282,8 @@ const TDS = [
     partyName: "Social Democrats",
     constituency: "Dublin North West",
     score: "./assets/images/positive.jpg",
-    email: "roisin.shortall@oireachtas.ie"
+    email: "roisin.shortall@oireachtas.ie",
+    phone: "01 618 3593"
   },
   {
     name: "Rose Conway Walsh",
@@ -1150,7 +1291,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Mayo",
     score: "./assets/images/positive.jpg",
-    email: "rose.conwaywalsh@oireachtas.ie"
+    email: "rose.conwaywalsh@oireachtas.ie",
+    phone: "01 618 3664"
   },
   {
     name: "Ruairi O Murchu",
@@ -1158,7 +1300,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Louth",
     score: "./assets/images/positive.jpg",
-    email: "ruairi.omurchu@oireachtas.ie"
+    email: "ruairi.omurchu@oireachtas.ie",
+    phone: "01 6184060"
   },
   {
     name: "Sean Canney",
@@ -1166,7 +1309,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Galway East",
     score: "./assets/images/negative.jpg",
-    email: "sean.canney@oireachtas.ie"
+    email: "sean.canney@oireachtas.ie",
+    phone: "01 618 3436"
   },
   {
     name: "Sean Crowe",
@@ -1174,7 +1318,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Dublin South West",
     score: "./assets/images/positive.jpg",
-    email: "sean.crowe@oireachtas.ie"
+    email: "sean.crowe@oireachtas.ie",
+    phone: "01 618 3941"
   },
   {
     name: "Sean Fleming",
@@ -1182,7 +1327,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Laois Offaly",
     score: "./assets/images/negative.jpg",
-    email: "sean.fleming@oireachtas.ie"
+    email: "sean.fleming@oireachtas.ie",
+    phone: "01 618 3472"
   },
   {
     name: "Sean Haughey",
@@ -1190,7 +1336,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Dublin Bay North",
     score: "./assets/images/negative.jpg",
-    email: "sean.haughey@oireachtas.ie"
+    email: "sean.haughey@oireachtas.ie",
+    phone: "01 618 4369"
   },
   {
     name: "Sean O Fearghail",
@@ -1198,7 +1345,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Kildare South",
     score: "./assets/images/did_not_vote.jpg",
-    email: "sean.ofearghail@oireachtas.ie"
+    email: "sean.ofearghail@oireachtas.ie",
+    phone: "0598634805"
   },
   {
     name: "Sean Sherlock",
@@ -1206,7 +1354,8 @@ const TDS = [
     partyName: "Labour Party",
     constituency: "Cork East",
     score: "./assets/images/positive.jpg",
-    email: "sean.sherlock@oireachtas.ie"
+    email: "sean.sherlock@oireachtas.ie",
+    phone: "01 618 4049"
   },
   {
     name: "Simon Coveney",
@@ -1214,7 +1363,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Cork South Central",
     score: "./assets/images/did_not_vote.jpg",
-    email: "simon.coveney@oireachtas.ie"
+    email: "simon.coveney@oireachtas.ie",
+    phone: "0214374200"
   },
   {
     name: "Simon Harris",
@@ -1222,7 +1372,8 @@ const TDS = [
     partyName: "Fine Gael",
     constituency: "Wicklow",
     score: "./assets/images/negative.jpg",
-    email: "simon.harris@oireachtas.ie"
+    email: "simon.harris@oireachtas.ie",
+    phone: "01 618 3805"
   },
   {
     name: "Sorca Clarke",
@@ -1230,7 +1381,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Longford Westmeath",
     score: "./assets/images/positive.jpg",
-    email: "sorca.clarke@oireachtas.ie"
+    email: "sorca.clarke@oireachtas.ie",
+    phone: "01 6183455"
   },
   {
     name: "Stephen Donnelly",
@@ -1238,7 +1390,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Wicklow",
     score: "./assets/images/negative.jpg",
-    email: "stephen.donnelly@oireachtas.ie"
+    email: "stephen.donnelly@oireachtas.ie",
+    phone: "01 618 4293"
   },
   {
     name: "Steven Matthews",
@@ -1246,7 +1399,8 @@ const TDS = [
     partyName: "Green Party",
     constituency: "Wicklow",
     score: "./assets/images/negative.jpg",
-    email: "steven.matthews@oireachtas.ie"
+    email: "steven.matthews@oireachtas.ie",
+    phone: "01 6183513"
   },
   {
     name: "Thomas Byrne",
@@ -1254,7 +1408,8 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Meath East",
     score: "./assets/images/negative.jpg",
-    email: "Thomas.Byrne@oireachtas.ie"
+    email: "Thomas.Byrne@oireachtas.ie",
+    phone: "01 618 3310"
   },
   {
     name: "Thomas Gould",
@@ -1262,7 +1417,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Cork North Central",
     score: "./assets/images/positive.jpg",
-    email: "thomas.gould@oireachtas.ie"
+    email: "thomas.gould@oireachtas.ie",
+    phone: "01 6183513"
   },
   {
     name: "Thomas Pringle",
@@ -1270,7 +1426,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Donegal",
     score: "./assets/images/positive.jpg",
-    email: "thomas.pringle@oireachtas.ie"
+    email: "thomas.pringle@oireachtas.ie",
+    phone: "01 618 3038"
   },
   {
     name: "Verona Murphy",
@@ -1278,7 +1435,8 @@ const TDS = [
     partyName: "Independent",
     constituency: "Wexford",
     score: "./assets/images/positive.jpg",
-    email: "verona.murphy@oireachtas.ie"
+    email: "verona.murphy@oireachtas.ie",
+    phone: "01 6183329"
   },
   {
     name: "Violet-Anne Wynne",
@@ -1286,7 +1444,8 @@ const TDS = [
     partyName: "Sinn Féin",
     constituency: "Clare",
     score: "./assets/images/positive.jpg",
-    email: "violet-anne.wynne@oireachtas.ie"
+    email: "violet-anne.wynne@oireachtas.ie",
+    phone: "065 6842251"
   },
   {
     name: "Willie O'Dea",
@@ -1294,6 +1453,7 @@ const TDS = [
     partyName: "Fianna Fáil",
     constituency: "Limerick City",
     score: "./assets/images/negative.jpg",
-    email: "willie.odea@oireachtas.ie"
+    email: "willie.odea@oireachtas.ie",
+    phone: "01 618 4259"
   }
 ]
